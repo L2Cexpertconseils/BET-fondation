@@ -7,5 +7,6 @@ Dim Mf as single
 
 
 'DIMENSIONNEMENT EN CISAILLEMENT
+Vf = (ab - (h - cover - diametre)) * 1000 * qsf * (10) ^ (-6)
 
 'DIMENSIONNEMENT EN FLEXION
